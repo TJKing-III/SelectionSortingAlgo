@@ -30,6 +30,6 @@ elif action.lower() == 'yes':
         inputArray.append(number)
     selection(inputArray)
 else:
-    print("Why the hell you do this for you pagan")
+    print("Why the hell you do this for")
         
 
